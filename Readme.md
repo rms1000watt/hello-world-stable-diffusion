@@ -6,9 +6,13 @@ From the guide here: https://replicate.com/blog/run-stable-diffusion-on-m1-mac &
 
 ## Contents
 
-- [Setup](#setup)
+- [Run](#Run)
 
-## Setup
+## Run
+
+- Read the guide above to get the model and place it in the right spot.
+- Then install brew deps.
+- Then run the script.
 
 ```bash
 brew install protobuf cmake rust
